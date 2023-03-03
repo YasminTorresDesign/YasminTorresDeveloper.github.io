@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="date"],
+  input[type="time"] {
+    padding: 0.5em;
+    font-size: 1em;
+    margin-bottom: 1em;
+    width: 20em;
+  }
+  
+  input[type="submit"] {
+    padding: 0.5em;
+    font-size: 1em;
+    width: 10em;
+  }
+  
